@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mwero Abdalla</h1>
 <h3 align="center">A passionate Junior Full Stack developer from Mombasa, Kenya</h3>
 
-- 🌱 I’m currently learning **Cloud (AWS) Computing Engineering at Alt-Udacity**
+- 🌱 I’m currently learning **Cloud (AWS) Computing  at Alt-Udacity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mwenaro/](https://github.com/mwenaro/)
 
