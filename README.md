@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mwenaro/](https://github.com/mwenaro/)
 
-- 💬 Ask me about **react, angular 1.x, node, php**
+- 💬 Ask me about **react, nextjs, node, php**
 
 - 📫 How to reach me **mwerothewebmaker@gmail.com**
 
