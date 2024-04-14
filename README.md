@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, nextjs, node, php**
 
-- 📫 How to reach me **mwerothewebmaker@gmail.com**
+- 📫 How to reach me **mweroabdalla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
